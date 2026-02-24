@@ -17,6 +17,6 @@
     "typography.css": "^0.1.0"
   },
   "devDependencies": {
-    "cssnano": "^4.1.10"
+    "cssnano": "^7.1.2"
   }
 }
